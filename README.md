@@ -1,3 +1,4 @@
+![logo](https://github.com/satg01/satg01/blob/main/programmer.gif)
 <h1 align="center">Hi 👋, I'm Sateesh Godewar</h1>
 <h3 align="center">A Data Enthusiast Converting Data into Insights</h3>
 
