@@ -1,7 +1,7 @@
 ![logo](https://github.com/satg01/satg01/blob/main/programmer.gif)
 <h1 align="center">Hi 👋, I'm Sateesh Godewar</h1>
 <h3 align="center">A Data Enthusiast Converting Data into Insights</h3>
-<img align="right" alt= "analyst" width="400" src="https://github.com/satg01/satg01/blob/main/programmer.gif">
+<img align="center" alt= "analyst" width="400" src="https://github.com/satg01/satg01/blob/main/programmer.gif">
 <p align="left"> <img src="https://github.com/satg01/satg01/blob/main/programmer.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satg01" alt="satg01" /></a> </p>
