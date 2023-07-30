@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Sateeshgodewar45@gmail.com**
   
-- 👨‍💻 All of my projects are available at [https://sateesh.carrd.co/](https://sateesh.carrd.co/)
+- 👨‍💻 My Portfolio [https://sateesh.carrd.co/](https://sateesh.carrd.co/)
 
 - ⚡ Fun fact **I am Funny**
 
