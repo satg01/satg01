@@ -1,33 +1,42 @@
-![logo](https://github.com/satg01/satg01/blob/main/programmer.gif)
 <h1 align="center">Hi 👋, I'm Sateesh Godewar</h1>
-<h3 align="center">A Data Enthusiast Converting Data into Insights</h3>
-<img align="center" alt= "analyst" width="400" src="https://github.com/satg01/satg01/blob/main/programmer.gif">
-<p align="left"> <img src="https://github.com/satg01/satg01/blob/main/programmer.gif" /> </p>
+<h3 align="center">Guide to Transform Data into Actionable Insights</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satg01" alt="satg01" /></a> </p>
 
-- 🌱 I’m currently learning **Statistics**
+# 💫 About Me:
 
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me related to  **Data Analysis , Data Visualization**
+
+- 📫 How to reach me **Sateeshgodewar45@gmail.com**
+  
 - 👨‍💻 All of my projects are available at [https://sateesh.carrd.co/](https://sateesh.carrd.co/)
 
-- 💬 Ask me about **python, Sql, Excel**
+- ⚡ Fun fact **I am Funny**
 
-- 📫 How to reach me **sateeshgodewar45@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/analytic_guide)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sateesh-godewar) <br>
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sateeshgodewar45)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sateesh-godewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sateesh-godewar" height="30" width="40" /></a>
-<a href="https://instagram.com/analytic_guide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analytic_guide" height="30" width="40" /></a>
-<a href="https://medium.com/@sateeshgodewar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sateeshgodewar45" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sateesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sateesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sateesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sateesh" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  ![POWERBI](https://img.shields.io/badge/Tableau-green)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![POWERBI](https://img.shields.io/badge/EXCEL-red)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![POWERBI](https://img.shields.io/badge/POWERBI-blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satg01&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satg01&show_icons=true&locale=en&layout=compact" alt="satg01" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satg01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=satg01&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satg01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satg01&show_icons=true&locale=en" alt="satg01" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satg01&" alt="satg01" /></p>
