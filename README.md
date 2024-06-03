@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi There👋, I'm Sateesh Godewar</h1>
-<div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="400px" style="float:right; margin: 0 0 10px 10px;"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a> from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/24166770/date-everywhere-data-digital-marketing-gif.gif">
 
 ## 💫 About Me:
 - ⚡ Passionate self-taught data engineer
