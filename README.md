@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sateesh Godewar</h1>
-<h3 align="center">Guide to Transform Data into Actionable Insights</h3>
+<h1 align="center">Hi There👋, I'm Sateesh Godewar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me related to  **Data Analysis , Data Visualization**
-
+- ⚡ I'm a self-taught data engineer
+- 🤔 I'm currently looking for new opportunities in the data engineering field
 - 📫 How to reach me **Sateeshgodewar45@gmail.com**
   
 - 👨‍💻 My Portfolio : [https://sateesh.carrd.co/](https://sateesh.carrd.co/)
