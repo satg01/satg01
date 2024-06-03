@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi There👋, I'm Sateesh Godewar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 💫 About Me:
 - ⚡ Passionate self-taught data engineer
 - 🤔 Actively seeking new opportunities in the data engineering field
