@@ -1,8 +1,8 @@
 
-## Hi There👋, Sateesh Godewar!
+## Hi There, Sateesh Godewar 👋
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-## 💫 Here's a little bit about myself:
+## 💫 Here's a little bit about myself :
 - ⚡ Passionate self-taught data engineer
 - 🤔 Actively seeking new opportunities in the data engineering field
 - 📫 Reach me at **Sateeshgodewar45@gmail.com**
