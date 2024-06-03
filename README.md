@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi There👋, I'm Sateesh Godewar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-IN/view/date-everywhere-data-digital-marketing-gif-24166770">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/date-everywhere-data-digital-marketing-gif-24166770">
 
 ## 💫 About Me:
 - ⚡ Passionate self-taught data engineer
