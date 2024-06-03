@@ -42,6 +42,7 @@
 
 ### Big Data & Distributed Systems:
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
@@ -63,3 +64,4 @@
 
 ### ✍️ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
