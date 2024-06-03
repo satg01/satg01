@@ -1,6 +1,5 @@
 
-<h1 align="left">Hi There👋,
-  I'm Sateesh Godewar</h1>
+## Hi There👋, I'm Sateesh Godewar!
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## 💫 About Me:
