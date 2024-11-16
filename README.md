@@ -6,7 +6,6 @@
 ## 💫 A Little Bit About Me:
 - 📊 Data Analyst with a keen eye for detail and a passion for uncovering insights
 - 📈 Experienced in data visualization, statistical analysis, and business intelligence
-- 🤔 Seeking opportunities to apply data-driven solutions to real-world challenges
 - 📫 Reach me at **Sateeshgodewar45@gmail.com**
 - 👨‍💻 Portfolio: [sateesh.carrd.co](https://sateesh.carrd.co/)
 
