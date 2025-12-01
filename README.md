@@ -6,7 +6,6 @@
 - 🚀 Currently learning **Apache Spark, Airflow, and Cloud Data Warehousing**  
 - 🎯 Goal: To design **scalable, reliable, and efficient data solutions**  
 - 📫 Reach me at **Sateeshgodewar45@gmail.com**  
-- 👨‍💻 Portfolio: [sateesh.carrd.co](https://sateesh.carrd.co/)  
 
 ---
 
