@@ -1,23 +1,24 @@
-## 👋 Hi There, Sateesh Godewar 
- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
- 
-## 📊 Data Analyst | SQL | Python | Data Visualization  
+## 👋 Hi There, Sateesh Godewar
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+## ⚙️ Data Engineering | SQL | Python | ETL | Cloud
 
 ---
 
 ## 💫 A Little Bit About Me :
-- 📊 Data Analyst focused on analyzing data and delivering actionable insights  
-- 📈 Engaged in data visualization, reporting, and business-focused analysis  
-- 📊 Working with structured datasets to support data-driven decision making  
+- 📊 Data professional transitioning toward **Data Engineering**  
+- 🔄 Building skills in **data pipelines, ETL workflows, and data processing**  
+- 🗄️ Working with structured datasets using **SQL and Python**  
+- ☁️ Exploring **cloud data platforms and modern data architectures**  
+- 🎯 Actively **learning and seeking entry-level Data Engineering opportunities**  
 - 📫 Reach me at **Sateeshgodewar45@gmail.com**  
-- 👨‍💻 Portfolio: [sateesh.carrd.co](https://sateesh.carrd.co)
+
 
 ---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sateesh-godewar)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sateeshgodewar45)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/analytic_guide)
 
 ---
 
@@ -30,19 +31,23 @@
 
 ---
 
-### 📊 Data Analysis & Visualization
+### ⚙️ Data Engineering & ETL
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-blue?style=flat-square)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
 ---
 
-### 📜 Programming
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+
+---
+
+### 📜 Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -58,4 +63,4 @@
 ---
 
 ### ✍️ Data Quote
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+> *"Every strong analytics or ML system starts with good data engineering."*
