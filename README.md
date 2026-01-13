@@ -1,7 +1,7 @@
 ## 👋 Hi There, Sateesh Godewar 👋
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-## 📊 Data Analytics | SQL | Python
+## 📊 Data Analytics | SQL | Python | Power BI | Statistics |  Excel
 
 ---
 
@@ -27,7 +27,6 @@
 ### 🗄️ Databases & SQL
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -41,7 +40,7 @@
 ### 📈 Analytics & Data Preparation
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-orange?style=flat-square)
 ![Exploratory Data Analysis](https://img.shields.io/badge/EDA-green?style=flat-square)
-![Basic Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
+! Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
 
 ---
 
