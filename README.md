@@ -40,7 +40,7 @@
 ### 📈 Analytics & Data Preparation
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-orange?style=flat-square)
 ![Exploratory Data Analysis](https://img.shields.io/badge/EDA-green?style=flat-square)
-! Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
 
 ---
 
